@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Loktra</string>
+    <string name="MAP_API_KEY">Your_APi_Key</string>
+</resources>
